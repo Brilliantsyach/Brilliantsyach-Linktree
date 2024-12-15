@@ -73,12 +73,6 @@ a {
     padding: 10px 20px;
 }
 
-/**********ALGORAND**********/
-#algorand {
-    height: 30px;
-    padding-top: 5px;
-}
-
 /**********BUY ME A COFFEE**********/
 #coffee {
     background: #FFDD00;
@@ -94,8 +88,4 @@ footer a {
     color: #FFDD00;
     font-weight: 600;
     text-decoration: none; 
-}
-#israel {
-    background-color: #005EB8;
-    border-color: #005EB8;;
 }
